@@ -938,7 +938,7 @@ div[data-dimension] {
   display: inline;
   float: left;
   height: 300px;
-  /* margin-top: 30px; */
+  margin-top: 30px;
   margin-bottom: 50px;
   padding: 118px 0;
   text-align: center;
